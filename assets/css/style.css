@@ -1,0 +1,47 @@
+tr:nth-child(even) {
+    background-color: #d9d6e7;
+}
+
+#main-table th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #26517F;
+        color: white;
+
+}
+
+#main-table th, #main-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+}
+
+.inputs {
+    width: 100%;
+}
+
+#first-train-time {
+    align-self: center;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-header {
+color: #ffff;
+font-weight: 700;
+font-size: 30px;
+border-bottom: 3px solid #d9d6e7;
+}
+
+.jumbotron {
+color: white;
+background-color: #003D7F;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 1000;
+    font-family: "Arial Black", Arial, Helvetica, sans-serif;
+}
